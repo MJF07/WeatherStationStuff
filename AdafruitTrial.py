@@ -2,7 +2,7 @@
 
 import requests
 AIO_USERNAME = "MJF07"
-ADAFRUIT_AIO_KEY = "aio_Fuhr25ZCn1t3KN45NuuVyuAuC7y5"
+ADAFRUIT_AIO_KEY = "___"
 
 # The feed    name you want to send data to (replace 'test-data' with your feed name)
 
